@@ -1,0 +1,21 @@
+﻿Variable Name,Threat Type,Units,Fixed,Low,Median,High
+Annual Revenue,None,$/yr,250000000,,,
+Cost of Disruption,None,$/min,5600,,,
+Records at Risk,Ransomware,records,,5000000,35000000,50000000
+Annual Revenue Extortion Factor,Ransomware,% annual revenue,,0.01,0.029,0.045
+Ransomware Business Disruption Duration,Ransomware,minutes,,300,870,2400
+Annual Probability of Ransomware Event,Ransomware,%/yr,0.025,,,
+Wire Fraud Loss Value/Compromise,BEC,$/event,,10000,100000,250000
+Number of People with Wire Transfer Authority,BEC,people,40,,,
+Average Number of Daily Emails/Person Received at Server,BEC,emails/person,80,,,
+Proportion of Malicious Emails,BEC,%,0.45,,,
+Malcious Email Capture Rate,BEC,%,0.98,,,
+Click-through & Compromise Rate,BEC,number/100K,5,,,
+Cloud Records at Risk,Cloud Compromise,records,,3000000,20000000,30000000
+Annual Probability of Cloud Data Breach,Cloud Compromise,%/yr,0.025,,,
+Cloud Disruption Duration,Cloud Compromise,minutes,,60,240,480
+Annual Probability of Cloud Business Disruption,Cloud Compromise,%/yr,0.025,,,
+SaaS Records at Risk,SaaS Compromise,records,,500000,2000000,10000000
+Annual Probability of SaaS Data Breach,SaaS Compromise,%/yr,0.025,,,
+SaaS Disruption Duration,SaaS Compromise,minutes,,180,720,1160
+Annual Probability of SaaS Business Disruption,SaaS Compromise,%/yr,0.025,,,
